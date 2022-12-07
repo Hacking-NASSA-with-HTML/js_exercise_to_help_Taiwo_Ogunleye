@@ -7,7 +7,7 @@ function commonElement(arr1, arr2) {
         for (let j = 0; j < arr2.length; j++) {
             if (arr1[i] === arr2[j]) {
                 console.log(arr1[i])
-                console.log(arr1[i])
+                console.log(arr2[j])
                 return true;
             }
         }
