@@ -1,4 +1,4 @@
-console.log('Taiwo Ogunleye!')
+console.log('Hi Taiwo Ogunleye!')
 
 const array1 = ['a', 'b', 'c', 'd'];
 const array2 = ['x', 'y', 'z', 'd'];
