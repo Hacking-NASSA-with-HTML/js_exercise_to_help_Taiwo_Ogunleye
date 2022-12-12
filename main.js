@@ -15,3 +15,15 @@ function commonElement(arr1, arr2) {
     return false;
 }
 console.log(commonElement(array1, array2))
+
+
+const array11 = ['a', 'b', 'c', 'd'];
+const array21 = ['w', 'x', 'y', 'a'];
+
+function checkFactor2(someArr1, someArr2) {
+    let commonProp = someArr1.some(function (item) {
+        return someArr2.includes(item)
+    })
+    console.log(commonProp)
+}
+checkFactor2(array11, array21);
