@@ -4,7 +4,12 @@ function mainPageContent() {
             <a href="https://github.com/Hacking-NASSA-with-HTML/js_exercise_to_help_Taiwo_Ogunleye" target="_blank"><img width="149"
                     height="149" src="./assets/img/forkme_left_red.png" style="position: fixed; top:0; left:0" alt="Fork me on GitHub">
             </a>
-            <p class="paragraph">Taiwo Ogunleye, see results in the console, and source code in main.js file and README.md</p>
+            <div>
+                <p class="paragraph">Taiwo Ogunleye, </p>
+                <p class="paragraph">see results in the console, </p>
+                <p class="paragraph">and the source code in </p>
+                <p class="paragraph">main.js file and README.md</p>
+            </div>
         `
     return renderMainPageContent
 }
