@@ -1,6 +1,6 @@
 # js exercise to help Taiwo Ogunleye
 
-```
+```js
 console.log('Hi Taiwo Ogunleye!')
 
 
@@ -25,7 +25,7 @@ console.log(commonElement(array1, array2))
 
 An exercise using some() method 
 
-```
+```js
 const array11 = ['a', 'b', 'c', 'd']
 const array21 = ['w', 'x', 'y', 'a']
 
